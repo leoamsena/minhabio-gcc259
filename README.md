@@ -1,5 +1,10 @@
 # Leonardo Amorim de Sena
+
+<img src="avatar.jpeg" alt="drawing" style="float:right;width:150px;height:150px;"/>
+
 **Desenvolvedor Full Stack**
+
+
 
 📧 [Email](mailto:leonardo.am.sena@gmail.com) 
 
@@ -9,7 +14,6 @@
 
 ## Experiência
 ### Desenvolvedor Full Stack Júnior em BITKA Analytics
-📆 Fevereiro 2022 - Em andamento 📍 Lavras MG - Brasil
 - Desenvolvimento e manutenção, utilizando C# e Vue.JS, de software de otimização de trens em ferrovias. 
 - Integração de serviços azure a software existente.  
 
